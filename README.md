@@ -12,13 +12,13 @@
 #### Single player
 Packs with powerups that will help you guess the word with a 120 seconds time limit but be careful every wrong letter you click, -10 sec but if correct +5 sec and 10 score.
 
-<p align="center"><img src="screenshots\Resources\1player,png"> <img src="screenshots\Resources\1playerwaley,png"> </p>
+<p align="center"><img src="screenshots\1player.png"> <img src="screenshots\1playerwaley.png"> </p>
 </br>
 
 #### Multiplayer
 Set your game area with two different keyboard to set a two player. compete with your friends to guess the word but take note, each wrong word will cost you a heart.
 
-<p align="center"><img src="screenshots\Resources\2player,png"> </p>
+<p align="center"><img src="screenshots\2player.png"> </p>
 
 
 ## Developers :rocket:
